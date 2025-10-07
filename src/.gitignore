@@ -4,6 +4,7 @@
 .vscode/.browse.c_cpp.db*
 .vscode/c_cpp_properties.json
 .vscode/launch.json
+.venv
 python/__pycache__/
 *.pyc
 super_defines.txt
